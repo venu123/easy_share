@@ -1,0 +1,19 @@
+This is a photo and a video sharing application to picasa and youtube respectively.
+
+////////TO PICASA/////////////////////
+
+1.To share photo run onclick.py.
+2.Enter the credentials and then press ok.
+3.Then enter the image path
+4.Then press ok.Credentials will be asked only once and then it will use the stored credentials.
+5.Photo will be uploaded to picasa account
+
+/////////TO YOUTUBE/////////////////
+
+1.To share video run onclick_youtube.py.
+2.Enter the credentials and then press ok.
+3.Then enter the video path
+4.Then press ok.Credentials will be asked only once and then it will use the stored credentials.
+5.video will be uploaded to youtube account
+
+
